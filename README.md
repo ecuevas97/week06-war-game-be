@@ -45,7 +45,7 @@ The game automatically simulates two players drawing cards from a shuffled deck 
 
 ## 📽️ Demo Video
 
-🎥 [YouTube Walkthrough]
+🎥 [YouTube Walkthrough: https://www.youtube.com/watch?v=HpRzcWVTF4A]
 
 ---
 
@@ -53,4 +53,5 @@ The game automatically simulates two players drawing cards from a shuffled deck 
 
 👩‍💻 **Elena Cuevas**  
 [GitHub](https://github.com/ecuevas97) • [LinkedIn](https://www.linkedin.com/in/elena-cuevas-28b65aa4/)
+
 
